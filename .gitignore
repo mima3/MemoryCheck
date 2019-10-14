@@ -21,3 +21,6 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+/WalkRcw/obj
+/EnumRcw/obj
+/EnumRcw/EnumRcw.csproj.user
